@@ -4,6 +4,6 @@
 | -------------  | --- |
 | :sparkles: Nome:       | Chanlenge Conversor de Moedas
 | :label: Tecnologias:| HTML, CSS, JavaScript
-| :rocket: URL:        | https://christianalencar.github.io/ONEportfolio/
+| :rocket: URL:        | https://christianalencar.github.io/conversor/
 | :fire: Desafio:    | Alura/ONE - Java e Orientação a Objetos T3 - ONE
 
